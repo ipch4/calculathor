@@ -2,13 +2,13 @@
 
 > A Vue.js project exercice
 
-### how to
+### How to
 
 have npm setup on the machine 
 
 donwload or clone the git
 
-then into the project folder
+get into the project folder
 
 ``` bash
 npm run dev
