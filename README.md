@@ -1,22 +1,19 @@
-# calcvuejs
+# calcvuejs X calculathor
 
-> A Vue.js project
+> A Vue.js project exercice
 
-## Build Setup
+### how to
+
+have npm setup on the machine 
+
+donwload or clone the git
+
+then into the project folder
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
+if no errors the app run at : [http://localhost:8080](http://localhost:8080)
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# calculathor
+
+
